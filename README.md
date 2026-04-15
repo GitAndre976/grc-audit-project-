@@ -1,6 +1,7 @@
 # grc-audit-project-
 
 ISO 27001 = What is expected
+
 ISO 27002 = How to do it
 
 RISK ASSESSMENT
