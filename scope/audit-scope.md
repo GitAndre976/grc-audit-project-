@@ -10,6 +10,7 @@ The objective of this audit is to evaluate the effectiveness of security control
 - Web application
 - Authentication
 - Database
+- Out of scope: Cloud infrastructure and Cloud OS
 
 ## 3. Key Assets
 - Customer data
